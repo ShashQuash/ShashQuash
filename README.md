@@ -1,28 +1,20 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Shrish+Arunesh;Backend+%26+Security+Developer;Building+toward+AppSec+Engineer;Based+in+Berlin+%F0%9F%87%A9%F0%9F%87%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Shrish+Arunesh;Backend+%26+Security+Developer;Application+Security+%7C+Python+%7C+FastAPI;Berlin+%F0%9F%87%A9%F0%9F%87%AA)](https://git.io/typing-svg)
 
 </div>
 
 ---
-```bash
-$ whoami
-> CS student @ BSBI Berlin · Graduating October 2026
-> Focus: Backend systems · Application Security · Vulnerability Detection
-> Target: Werkstudent → Junior AppSec Engineer → Senior AppSec
-> Currently: Building a modular web vulnerability scanner
-```
-
 ---
 
-### 🔐 Currently Building
+### 🔐 Projects
 
-| Project | Status | Stack |
-|---------|--------|-------|
-| [Web Vulnerability Scanner](https://github.com/ShashQuash/vulnerability-scanner) | 🔨 Layer 7 remaining | FastAPI · SQLi · XSS · SSL · Ports |
-| [2FA Auth System](https://github.com/ShashQuash/2fa-auth-system) | ✅ Live | FastAPI · TOTP · JWT · bcrypt |
-| [Secure Auth API](https://github.com/ShashQuash/secure-auth-api) | ✅ Live | FastAPI · JWT · bcrypt · Rate Limiting |
-| [Animal Pose Estimation](https://github.com/ShashQuash/real-time-animal-pose-estimation) | ✅ IEEE Published | YOLO · CVAT · Python |
+| Project | Stack | Status |
+|---------|-------|--------|
+| [Web Vulnerability Scanner](https://github.com/ShashQuash/vulnerability-scanner) | FastAPI · SQLi · XSS · SSL · Ports | 🔨 In progress |
+| [2FA Auth System](https://github.com/ShashQuash/2fa-auth-system) | FastAPI · TOTP · JWT · bcrypt | ✅ Live |
+| [Secure Auth API](https://github.com/ShashQuash/secure-auth-api) | FastAPI · JWT · bcrypt · Rate Limiting | ✅ Live |
+| [Animal Pose Estimation](https://github.com/ShashQuash/real-time-animal-pose-estimation) | YOLO · CVAT · Python | ✅ IEEE Published |
 
 ---
 
@@ -43,9 +35,7 @@ $ whoami
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShashQuash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img src="https://streak-stats.demolab.com?user=ShashQuash&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ShashQuash&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -64,9 +54,3 @@ $ whoami
 [![Portfolio](https://img.shields.io/badge/Portfolio-shashquash.github.io-7C3AED?style=flat-square&logo=githubpages&logoColor=white)](https://shashquash.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shrish--arunesh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrish-arunesh/)
 [![Email](https://img.shields.io/badge/Email-shrisharunesh@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shrisharunesh@gmail.com)
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer)
-
-</div>
