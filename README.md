@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Shrish%20Arunesh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Security%20Developer%20%C2%B7%20Berlin&descAlignY=55&descSize=16)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Shrish+Arunesh;Backend+%26+Security+Developer;Building+toward+AppSec+Engineer;Based+in+Berlin+%F0%9F%87%A9%F0%9F%87%AA)](https://git.io/typing-svg)
 
 </div>
 
@@ -43,9 +43,9 @@ $ whoami
 
 <div align="center">
 
-![Shrish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShashQuash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ShashQuash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ShashQuash&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=ShashQuash&theme=tokyonight&hide_border=true" />
 
 </div>
 
