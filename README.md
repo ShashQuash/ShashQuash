@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Shrish+Arunesh;Backend+%26+Security+Developer;Building+toward+AppSec+Engineer;Based+in+Berlin+%F0%9F%87%A9%F0%9F%87%AA)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Shrish%20Arunesh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Security%20Developer%20%C2%B7%20Berlin&descAlignY=55&descSize=16)
 
 </div>
 
@@ -64,3 +64,9 @@ $ whoami
 [![Portfolio](https://img.shields.io/badge/Portfolio-shashquash.github.io-7C3AED?style=flat-square&logo=githubpages&logoColor=white)](https://shashquash.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shrish--arunesh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrish-arunesh/)
 [![Email](https://img.shields.io/badge/Email-shrisharunesh@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shrisharunesh@gmail.com)
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer)
+
+</div>
