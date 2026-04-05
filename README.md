@@ -5,16 +5,24 @@
 </div>
 
 ---
+```bash
+$ whoami
+> CS student @ BSBI Berlin · Graduating October 2026
+> Building backend systems and security tooling in Python and FastAPI
+> ISC2 Certified in Cybersecurity (CC) · IEEE published researcher
+> Currently: Modular web vulnerability scanner — all 7 layers complete
+```
+
 ---
 
 ### 🔐 Projects
 
-| Project | Stack | Status |
-|---------|-------|--------|
-| [Web Vulnerability Scanner](https://github.com/ShashQuash/vulnerability-scanner) | FastAPI · SQLi · XSS · SSL · Ports | 🔨 In progress |
-| [2FA Auth System](https://github.com/ShashQuash/2fa-auth-system) | FastAPI · TOTP · JWT · bcrypt | ✅ Live |
-| [Secure Auth API](https://github.com/ShashQuash/secure-auth-api) | FastAPI · JWT · bcrypt · Rate Limiting | ✅ Live |
-| [Animal Pose Estimation](https://github.com/ShashQuash/real-time-animal-pose-estimation) | YOLO · CVAT · Python | ✅ IEEE Published |
+| Project | Demo | Stack | Status |
+|---------|------|-------|--------|
+| [Web Vulnerability Scanner](https://github.com/ShashQuash/vulnerability-scanner) | [Live Demo](https://shashquash.github.io/vulnerability-scanner/frontend) | FastAPI · SQLi · XSS · SSL · Ports | ✅ Complete |
+| [2FA Auth System](https://github.com/ShashQuash/2fa-auth-system) | [Live Demo](https://shashquash.github.io/2fa-auth-system/frontend) | FastAPI · TOTP · JWT · bcrypt | ✅ Live |
+| [Secure Auth API](https://github.com/ShashQuash/secure-auth-api) | [Live Demo](https://shashquash.github.io/secure-auth-api/frontend) | FastAPI · JWT · bcrypt · Rate Limiting | ✅ Live |
+| [Animal Pose Estimation](https://github.com/ShashQuash/real-time-animal-pose-estimation) | [IEEE Paper](https://ieeexplore.ieee.org/document/11249593) | YOLO · CVAT · Python | ✅ IEEE Published |
 
 ---
 
