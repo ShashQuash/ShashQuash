@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=500&color=A855F7&center=true&vCenter=true&width=600&lines=Shrish+Arunesh;Backend+%26+Security+Developer;Application+Security+%7C+Python+%7C+FastAPI;Berlin+%F0%9F%87%A9%F0%9F%87%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=400&color=A855F7&center=true&vCenter=true&width=600&lines=Shrish+Arunesh;Backend+%26+Security+Developer;Application+Security+%7C+Python+%7C+FastAPI;Berlin+%F0%9F%87%A9%F0%9F%87%AA)](https://git.io/typing-svg)
 
 </div>
 
