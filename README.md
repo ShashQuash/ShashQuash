@@ -1,17 +1,27 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=400&color=A855F7&center=true&vCenter=true&width=600&lines=Shrish+Arunesh;Backend+%26+Security+Developer;Application+Security+%7C+Python+%7C+FastAPI;Berlin+%F0%9F%87%A9%F0%9F%87%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=400&color=A855F7&center=true&vCenter=true&width=600&lines=Shrish+Arunesh;Cybersecurity+%26+Backend+Developer;AppSec+%7C+Python+%7C+FastAPI;Berlin+%F0%9F%87%A9%F0%9F%87%AA)](https://git.io/typing-svg)
 
 </div>
 
 ---
+
 ```bash
 $ whoami
 > CS student @ BSBI Berlin · Graduating October 2026
 > Building backend systems and security tooling in Python and FastAPI
 > ISC2 Certified in Cybersecurity (CC) · IEEE published researcher
-> Currently: Modular web vulnerability scanner — all 7 layers complete
+> Latest: Web vulnerability scanner — 7 layers · OWASP Top 10 complete
+> Languages: English (C1) · Hindi (Native) · German (A2 → B1)
 ```
+
+---
+
+### 📄 Research
+
+> **Real-Time Animal Pose Estimation Using Computer Vision Techniques**
+> Co-authored · Published at IEEE 2025 · YOLO · CVAT · Python
+> [View on IEEE Xplore ↗](https://ieeexplore.ieee.org/document/11249593)
 
 ---
 
@@ -19,9 +29,9 @@ $ whoami
 
 | Project | Demo | Stack | Status |
 |---------|------|-------|--------|
-| [Web Vulnerability Scanner](https://github.com/ShashQuash/vulnerability-scanner) | [Live Demo](https://shashquash.github.io/vulnerability-scanner/frontend) | FastAPI · SQLi · XSS · SSL · Ports | ✅ Complete |
-| [2FA Auth System](https://github.com/ShashQuash/2fa-auth-system) | [Live Demo](https://shashquash.github.io/2fa-auth-system/frontend) | FastAPI · TOTP · JWT · bcrypt | ✅ Live |
-| [Secure Auth API](https://github.com/ShashQuash/secure-auth-api) | [Live Demo](https://shashquash.github.io/secure-auth-api/frontend) | FastAPI · JWT · bcrypt · Rate Limiting | ✅ Live |
+| [Web Vulnerability Scanner](https://github.com/ShashQuash/vulnerability-scanner) | [Live Demo](https://shashquash.github.io/vulnerability-scanner/frontend) | FastAPI · SQLi · XSS · SSL · Ports · Server Info | ✅ Complete · Live |
+| [2FA Auth System](https://github.com/ShashQuash/2fa-auth-system) | [Live Demo](https://shashquash.github.io/2fa-auth-system/frontend) | FastAPI · TOTP · JWT · bcrypt | ✅ Complete · Live |
+| [Secure Auth API](https://github.com/ShashQuash/secure-auth-api) | [Live Demo](https://shashquash.github.io/secure-auth-api/frontend) | FastAPI · JWT · bcrypt · Rate Limiting | ✅ Complete · Live |
 | [Animal Pose Estimation](https://github.com/ShashQuash/real-time-animal-pose-estimation) | [IEEE Paper](https://ieeexplore.ieee.org/document/11249593) | YOLO · CVAT · Python | ✅ IEEE Published |
 
 ---
@@ -36,24 +46,25 @@ $ whoami
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-003366?style=flat-square&logoColor=white)
+![TOTP](https://img.shields.io/badge/TOTP_2FA-7C3AED?style=flat-square&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=ShashQuash&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 </div>
 
 ---
 
 ### 📜 Certifications
 
-- **ISC2 Certified in Cybersecurity (CC)** — Issued March 2026
-- **IONOS Cloud Technical Presales** — Active 2025–2026
-- **IONOS Cloud Compute Engine Sales** — Active 2025–2026
+[![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-00A550?style=flat-square&logo=isc2&logoColor=white)](https://www.isc2.org/Certifications/CC)
+![IONOS](https://img.shields.io/badge/IONOS_Cloud-Technical_Presales-003D8F?style=flat-square&logoColor=white)
+![IONOS](https://img.shields.io/badge/IONOS_Cloud-Compute_Engine_Sales-003D8F?style=flat-square&logoColor=white)
 
 ---
 
