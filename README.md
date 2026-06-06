@@ -8,17 +8,16 @@
 
 ```bash
 $ whoami
-> CS student @ BSBI Berlin · Graduating October 2026
-> Building backend systems and security tooling in Python and FastAPI
-> ISC2 Certified in Cybersecurity (CC) · IEEE published researcher
-> Latest: Web vulnerability scanner — 7 layers · OWASP Top 10 complete
-> Languages: English (C1) · Hindi (Native) · German (A2 → B1)
+> CS student at BSBI Berlin, graduating October 2026
+> I build backend systems and security tooling in Python and FastAPI
+> IEEE published researcher (computer vision)
+> Latest build: a web vulnerability scanner. 7 layers, full OWASP Top 10
+> Languages: English (C1) · Hindi (native) · German (A2, working on B1)
 ```
 
 ---
 
 ### 📄 Research
-
 > **Real-Time Animal Pose Estimation Using Computer Vision Techniques**
 > Co-authored · Published at IEEE 2025 · YOLO · CVAT · Python
 > [View on IEEE Xplore ↗](https://ieeexplore.ieee.org/document/11249593)
@@ -36,8 +35,15 @@ $ whoami
 
 ---
 
-### 🛠️ Stack
+### ⚡ Hackathons
+> **Midknight Watcher** · 42 Berlin × Needle "Build What Works", May 2026
+> An autonomous coding agent with a three-tier LLM fallback chain (Cerebras, Groq, Ollama)
+> Team Sichuan_X_Paneer · placed 5th of 10
+> [Repo ↗](https://github.com/ShashQuash/midknight_watcher_42Hackathon)
 
+---
+
+### 🛠️ Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -53,23 +59,13 @@ $ whoami
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=ShashQuash&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 📜 Certifications
-
-[![ISC2 CC](https://img.shields.io/badge/ISC2-Certified_in_Cybersecurity_(CC)-00A550?style=flat-square&logo=isc2&logoColor=white)](https://www.isc2.org/Certifications/CC)
-![IONOS](https://img.shields.io/badge/IONOS_Cloud-Technical_Presales-003D8F?style=flat-square&logoColor=white)
-![IONOS](https://img.shields.io/badge/IONOS_Cloud-Compute_Engine_Sales-003D8F?style=flat-square&logoColor=white)
-
----
-
 ### 🔗 Links
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-shashquash.github.io-7C3AED?style=flat-square&logo=githubpages&logoColor=white)](https://shashquash.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shrish--arunesh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrish-arunesh/)
 [![Email](https://img.shields.io/badge/Email-shrisharunesh@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shrisharunesh@gmail.com)
