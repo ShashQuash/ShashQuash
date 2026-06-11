@@ -32,14 +32,7 @@ $ whoami
 | [2FA Auth System](https://github.com/ShashQuash/2fa-auth-system) | [Live Demo](https://shashquash.github.io/2fa-auth-system/frontend) | FastAPI · TOTP · JWT · bcrypt | ✅ Complete · Live |
 | [Secure Auth API](https://github.com/ShashQuash/secure-auth-api) | [Live Demo](https://shashquash.github.io/secure-auth-api/frontend) | FastAPI · JWT · bcrypt · Rate Limiting | ✅ Complete · Live |
 | [Animal Pose Estimation](https://github.com/ShashQuash/real-time-animal-pose-estimation) | [IEEE Paper](https://ieeexplore.ieee.org/document/11249593) | YOLO · CVAT · Python | ✅ IEEE Published |
-
----
-
-### ⚡ Hackathons
-> **Midknight Watcher** · 42 Berlin × Needle "Build What Works", May 2026
-> An autonomous coding agent with a three-tier LLM fallback chain (Cerebras, Groq, Ollama)
-> Team Sichuan_X_Paneer · placed 5th of 10
-> [Repo ↗](https://github.com/ShashQuash/midknight_watcher_42Hackathon)
+| [Midknight Watcher](https://github.com/ShashQuash/midknight_watcher_42Hackathon)<br><sub>Autonomous coding agent with a three-tier LLM fallback (Cerebras, Groq, Ollama). Built at 42 Berlin × Needle, May 2026.</sub> | N/A | Python · Cerebras · Groq · Ollama | 🏁 5th of 10 |
 
 ---
 
