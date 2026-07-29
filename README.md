@@ -9,10 +9,11 @@
 ```bash
 $ whoami
 > CS student at BSBI Berlin, graduating October 2026
-> I build backend systems and security tooling in Python and FastAPI
+> Backend systems and security tooling in Python and FastAPI
 > IEEE published researcher (computer vision)
-> Latest build: a web vulnerability scanner. 7 layers, full OWASP Top 10
-> Languages: English (C1) · Hindi (native) · German (A2, working on B1)
+> Latest build: a web vulnerability scanner. 7 layers, covering 5 of the OWASP Top 10 categories
+> Currently building SecurePipe, a DevSecOps security pipeline (secrets, dependency and SAST scanning).
+> Languages: English (C1) · Hindi (native) · German (A2)
 ```
 
 ---
@@ -21,6 +22,9 @@ $ whoami
 > **Real-Time Animal Pose Estimation Using Computer Vision Techniques**
 > Co-authored · Published at IEEE 2025 · YOLO · CVAT · Python
 > [View on IEEE Xplore ↗](https://ieeexplore.ieee.org/document/11249593)
+
+> **Indirect Prompt Injection Against LLM-Based Vulnerability Triage in DevSecOps Pipelines**
+> Dissertation, in progress · LLM security · prompt injection · DevSecOps
 
 ---
 
@@ -33,6 +37,7 @@ $ whoami
 | [Secure Auth API](https://github.com/ShashQuash/secure-auth-api) | [Live Demo](https://shashquash.github.io/secure-auth-api/frontend) | FastAPI · JWT · bcrypt · Rate Limiting | ✅ Complete · Live |
 | [Animal Pose Estimation](https://github.com/ShashQuash/real-time-animal-pose-estimation) | [IEEE Paper](https://ieeexplore.ieee.org/document/11249593) | YOLO · CVAT · Python | ✅ IEEE Published |
 | [Midknight Watcher](https://github.com/ShashQuash/midknight_watcher_42Hackathon)<br><sub>Autonomous coding agent with a three-tier LLM fallback (Cerebras, Groq, Ollama). Built at 42 Berlin × Needle, May 2026.</sub> | N/A | Python · Cerebras · Groq · Ollama | 🏁 5th of 10 |
+| [DayTonator](PASTE_URL_HERE)<br><sub>Supply chain security tool. Runs suspicious packages in paired sandboxes to catch malware that hides from static checks, then explains the verdict in plain English. Built with a team of three at AI Hackday Berlin, June 2026.</sub> | N/A | Python · Daytona sandboxes · LLM verdict engine | 🏁 Hackathon build |
 
 ---
 
