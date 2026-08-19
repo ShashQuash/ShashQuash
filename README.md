@@ -12,7 +12,8 @@ $ whoami
 > Backend systems and security tooling in Python and FastAPI
 > IEEE published researcher (computer vision)
 > Latest build: a web vulnerability scanner. 7 layers, covering 5 of the OWASP Top 10 categories
-> Currently building SecurePipe, a DevSecOps security pipeline (secrets, dependency and SAST scanning).
+> Currently building SecurePipe, a DevSecOps security pipeline (secrets, dependency and SAST scanning)
+> Security CI on my own repos: Bandit, pip-audit and detect-secrets run on every push
 > Languages: English (C1) · Hindi (native) · German (A2)
 ```
 
@@ -36,8 +37,8 @@ $ whoami
 | [2FA Auth System](https://github.com/ShashQuash/2fa-auth-system) | [Live Demo](https://shashquash.github.io/2fa-auth-system/frontend) | FastAPI · TOTP · JWT · bcrypt | ✅ Complete · Live |
 | [Secure Auth API](https://github.com/ShashQuash/secure-auth-api) | [Live Demo](https://shashquash.github.io/secure-auth-api/frontend) | FastAPI · JWT · bcrypt · Rate Limiting | ✅ Complete · Live |
 | [Animal Pose Estimation](https://github.com/ShashQuash/real-time-animal-pose-estimation) | [IEEE Paper](https://ieeexplore.ieee.org/document/11249593) | YOLO · CVAT · Python | ✅ IEEE Published |
-| [Midknight Watcher](https://github.com/ShashQuash/midknight_watcher_42Hackathon)<br><sub>Autonomous coding agent with a three-tier LLM fallback (Cerebras, Groq, Ollama). Built at 42 Berlin × Needle, May 2026.</sub> | N/A | Python · Cerebras · Groq · Ollama | 🏁 5th of 10 |
-| [DayTonator](PASTE_URL_HERE)<br><sub>Supply chain security tool. Runs suspicious packages in paired sandboxes to catch malware that hides from static checks, then explains the verdict in plain English. Built with a team of three at AI Hackday Berlin, June 2026.</sub> | N/A | Python · Daytona sandboxes · LLM verdict engine | 🏁 Hackathon build |
+| [Midknight Watcher](https://github.com/ShashQuash/midknight_watcher_42Hackathon)<br><sub>Autonomous coding agent with a three-tier LLM fallback (Cerebras, Groq, Ollama). Built at 42 Berlin × Needle, May 2026.</sub> | Local only | Python · Cerebras · Groq · Ollama | 🏁 5th of 10 |
+| **DayTonator**<br><sub>Supply chain security tool. Runs suspicious packages in paired sandboxes to catch malware that hides from static checks, then explains the verdict in plain English. Built with a team of three at AI Hackday Berlin, June 2026.</sub> | Local only | Python · Daytona sandboxes · LLM verdict engine | 🏁 Hackathon build |
 
 ---
 
@@ -48,7 +49,11 @@ $ whoami
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bandit](https://img.shields.io/badge/Bandit-SAST-A855F7?style=flat-square&logoColor=white)
+![pip-audit](https://img.shields.io/badge/pip--audit-SCA-A855F7?style=flat-square&logoColor=white)
+![detect-secrets](https://img.shields.io/badge/detect--secrets-Secrets_Scanning-A855F7?style=flat-square&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
 ![bcrypt](https://img.shields.io/badge/bcrypt-003366?style=flat-square&logoColor=white)
