@@ -8,8 +8,7 @@
 
 ```bash
 $ whoami
-> CS student at BSBI Berlin, graduating October 2026
-> Backend systems and security tooling in Python and FastAPI
+> CS student at BSBI Berlin, graduating October 2026 - Aspiring SOC Analyst
 > IEEE published researcher (computer vision)
 > Latest build: a web vulnerability scanner. 7 layers, covering 5 of the OWASP Top 10 categories
 > Currently building SecurePipe, a DevSecOps security pipeline (secrets, dependency and SAST scanning)
